@@ -33,13 +33,12 @@ Read the [main requirements](../fruggr-scanner/#requirements).
 The template provides a basic navigation flow with cookie handling:
 
 1. Navigate to Fruggr homepage
-2. Handle language selector interaction
-3. Accept cookies by clicking the accept button
+2. Accept cookies by clicking the button
 
 Customize the selectors and steps according to your application's needs. The current script shows how to:
 
 - Navigate to a specific URL (optional if the login page is the same as the project origin URL)
-- Interact with page elements using selectors
+- Interact with page elements using selectors (#tarteaucitronPersonalize2 for cookie acceptance)
 - Handle common website requirements like cookie acceptance
 
 To add authentication:
@@ -61,4 +60,5 @@ See ["Troubleshooting / FAQ"](../fruggr-scanner/#troubleshooting--faq) section.
 
 ## Getting help
 
+See ["Getting Help"](../fruggr-scanner/#getting-help) section.
 See ["Getting Help"](../fruggr-scanner/#getting-help) section.

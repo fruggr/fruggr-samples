@@ -4,9 +4,8 @@
     {
       "actions": [
         { "type": "navigate", "value": "https://www.fruggr.io" },
-        { "selector": "[href=\"#pll_switcher\"]", "type": "click" },
         {
-          "selector": "button[data-tracking=\"cookies-accept-all\"]",
+          "selector": "#tarteaucitronPersonalize2",
           "type": "click"
         }
       ],
