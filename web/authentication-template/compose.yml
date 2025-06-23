@@ -1,0 +1,10 @@
+services:
+  fruggr-scanner:
+    image: fruggr/scanner:latest
+    pull_policy: always
+    environment:
+      - FRUGGR_API_KEY
+      - FRUGGR_DEBUG_PATH
+      - FRUGGR_FUNIT_PATH
+    volumes:
+      - "./work/script.json:/tmp/fruggr/script.json"
