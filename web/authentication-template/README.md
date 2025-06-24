@@ -61,4 +61,3 @@ See ["Troubleshooting / FAQ"](../fruggr-scanner/#troubleshooting--faq) section.
 ## Getting help
 
 See ["Getting Help"](../fruggr-scanner/#getting-help) section.
-See ["Getting Help"](../fruggr-scanner/#getting-help) section.

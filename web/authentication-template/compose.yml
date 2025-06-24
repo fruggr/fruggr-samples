@@ -4,7 +4,6 @@ services:
     pull_policy: always
     environment:
       - FRUGGR_API_KEY
-      - FRUGGR_DEBUG_PATH
-      - FRUGGR_FUNIT_PATH
+      - FRUGGR_AUTH_STEPS
     volumes:
       - "./work/script.json:/tmp/fruggr/script.json"
