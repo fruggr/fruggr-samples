@@ -45,7 +45,6 @@ To add authentication:
 
 - Add steps for login form interaction
 - Configure username/password fields
-- Set up success verification
 
 ## Testing Tips
 
