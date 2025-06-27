@@ -1,0 +1,15 @@
+{
+  "schema": "https://www.fruggr.io/schemas/authentication-script-1.0.0",
+  "steps": [
+    {
+      "actions": [
+        { "type": "navigate", "value": "https://www.fruggr.io" },
+        {
+          "selector": "#tarteaucitronPersonalize2",
+          "type": "click"
+        }
+      ],
+      "name": "Accept Cookies"
+    }
+  ]
+}
