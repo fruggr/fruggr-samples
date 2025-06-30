@@ -6,4 +6,4 @@ services:
       - FRUGGR_API_KEY
       - FRUGGR_AUTH_STEPS
     volumes:
-      - "./work/script.json:/tmp/fruggr/script.json"
+      - "$FRUGGR_AUTH_STEPS:$FRUGGR_AUTH_STEPS"
