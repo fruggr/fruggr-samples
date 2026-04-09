@@ -6,6 +6,7 @@ Samples of how to use Fruggr to analyze your projects and have impact!
 
 - [Running functional unit with Fruggr scanner](functional-units/fruggr-scanner)
 - [Authentication script template](page-per-page/fruggr-scanner/authentication-template)
+- [Accessibility analysis with Fruggr A11y scanner](accessibility/fruggr-a11y-scanner)
 
 ## LICENSE
 

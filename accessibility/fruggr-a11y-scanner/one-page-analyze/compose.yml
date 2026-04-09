@@ -1,0 +1,8 @@
+services:
+  fruggr-a11y-scanner:
+    image: crfruggrprod.azurecr.io/fruggr-a11y/scanner-a11y:latest
+    # Our advice: always pull last available image
+    pull_policy: always
+    environment:
+      - FRUGGR_API_KEY
+      - FRUGGR_A11Y_PAGE_ID
